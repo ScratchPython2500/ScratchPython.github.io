@@ -1,7 +1,4 @@
-# I'm ScratchPython\#2500
->You probably won't understand what my stuff is.
->No worries, because I'm Chinese.
-'I hope：'
-- we can get along well,
-- without any conflicts,
-- and **grow together!**
+# This is my-website repository.
+The above publishes my website and some related resources.  
+**Thank you for visiting my website.**
+© ScratchPython2500
