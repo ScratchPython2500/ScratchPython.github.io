@@ -29,5 +29,6 @@
 本条讲解电脑各部分的安装。  
 [CPU与内存条](#CPU与内存条) | []() | []() | []() | [返回](#)
 ## CPU与内存条
-
+[CPU](#CPU):[AMD](#AMD+CPU) | [Intel](#Intel+CPU)
+### Intel CPU
 ## M.2固态
