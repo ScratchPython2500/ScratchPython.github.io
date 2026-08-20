@@ -1,0 +1,48 @@
+div{
+  position: absolute;
+	width: 80%;
+	backdrop-filter: blur(10px);
+	border-radius: 10px;
+	background: rgba(225,225,225,50%);
+	margin: 0 auto;
+	left: 50%;
+	transform: translateX(-50%);
+	padding: 0 10px;
+}
+		.tab{
+		  z-index: 999;
+		  text-align: center;
+		  width: 100%;
+		  border-radius: 0;
+		  background: rgba(225,225,225,75%);
+		  position: fixed;
+		  padding: 10px;
+		  font-size: 30px;
+		  a{
+		  	text-decoration: none;
+		  	color: black;
+			}
+		  a:hover{
+		  	color: coral;
+		  }
+		}
+		@media (orientation: portrait){
+		  body{
+			background: url("./bgs.webp") center fixed;
+			-webkit-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+		  }
+		  h1{font-size: 45px;}
+		  p{font-size: 35px;}
+		}
+		@media (orientation: landscape){
+		  body{
+			background: url("./bgl.webp") center fixed;
+			-webkit-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+		  }
+		  h1{font-size: 35px;}
+		  p{font-size: 25px;}
+    }
